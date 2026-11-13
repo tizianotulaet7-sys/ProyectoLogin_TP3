@@ -1,7 +1,7 @@
 # Proyecto Login
 
 - **Alumno:** Tiziano Tula
-- **Materia:** _(completar con el nombre de la materia)_
+- **Materia:** Análisis de Sistemas
 - **Año de cursada:** 2026
 
 Sistema de login con alta de usuarios, desarrollado de forma independiente para el TP3.
